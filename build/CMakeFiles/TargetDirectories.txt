@@ -1,0 +1,3 @@
+C:/Users/Baioretto/Documents/!PROGRAMMING/Roy/build/CMakeFiles/main.dir
+C:/Users/Baioretto/Documents/!PROGRAMMING/Roy/build/CMakeFiles/edit_cache.dir
+C:/Users/Baioretto/Documents/!PROGRAMMING/Roy/build/CMakeFiles/rebuild_cache.dir
